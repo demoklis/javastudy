@@ -1,0 +1,5 @@
+example:
+  service:
+    enabled: false
+    prefix: aa
+    suffix: bb
